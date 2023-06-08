@@ -1,13 +1,13 @@
-# Description
+# _Description_
 This mod is a community based patch for The Witcher 3 which merges several mod edits / additions in `panel_worldmap.redswf`
 
 Due to the amount of mods editing this file, managing mod to mod conflicts and patch creation would is a nightmare. The aim of this mod is to provide a singlular patched file that can be used by anyone taking advantage of one or more of the included mods and thus not have to worry about managing conflicts or picking which mod they want to see in-game.  
 
-# Installation
+# _Installation_
 Download the correct version for your setup and load order then install it with W3MM or manually by copying the `mods` folder within the archive to your main Witcher 3 game directory.
 Some of the above mods will provide their own version of this file in their main mod packages, please make sure to set this mod's priority higher in `Script Merger` for the changes to take effect.
 
-# Included Mods
+# _Included Mods_
 - [All Quest Objectives On Map](https://www.nexusmods.com/witcher3/mods/943)
 - [Botanist](https://github.com/Faen668/Botanist/releases)
 - [Colored Map Markers](https://www.nexusmods.com/witcher3/mods/938)
@@ -15,7 +15,7 @@ Some of the above mods will provide their own version of this file in their main
 - [Smooth GUI](https://www.nexusmods.com/witcher3/mods/7730)
 - [The Stable](https://www.nexusmods.com/witcher3/mods/6132)
 
-# Available Versions
+# _Available Versions_
   >**Base (No vanilla edits, Contains only additions)**
   > - All Quest Objectives On Map
   > - Botanist
@@ -42,7 +42,7 @@ Some of the above mods will provide their own version of this file in their main
   > - Smooth GUI
   > - The Stable
 
-# Credits
+# _Credits_
 - **_WolfMark_** for `All Quest Objectives On Map`
 - **_DJ Kovrik_** for `Colored Map Markers`
 - **_Ard Carraigh_** for `The Stable`
