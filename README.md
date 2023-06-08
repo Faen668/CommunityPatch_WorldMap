@@ -2,7 +2,7 @@
 A Community based patch for The Witcher 3 which merges several mod edits / additions in `panel_worldmap.redswf`
 
 # Included Mods
-- All Quest Objectives On Map
+- [All Quest Objectives On Map](https://www.nexusmods.com/witcher3/mods/943)
 - Botanist
 - Colored Map Markers
 - No World Map Levels
