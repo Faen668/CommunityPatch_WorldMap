@@ -29,8 +29,8 @@ Some of the above mods will provide their own version of this file in their main
   
   >**Extended (Same as Base SGUI with the addition of Colored Map Markers)**
   > - All Quest Objectives On Map
-  > - Colored Map Markers
   > - Botanist
+  > - Colored Map Markers
   > - Smooth GUI
   > - The Stable
 
