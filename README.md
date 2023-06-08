@@ -4,7 +4,7 @@ This mod is a community based patch for The Witcher 3 which merges several mod e
 Due to the amount of mods editing this file, managing mod to mod conflicts and patch creation is a nightmare. The aim of this mod is to provide a singlular patched file that can be used by anyone taking advantage of one or more of the included mods and thus not have to worry about managing conflicts or picking which mod they want to see in-game.  
 
 # _Installation_
-Download the correct version for your setup and load order then install it with [W3MM](https://www.nexusmods.com/witcher3/mods/2678) or manually by copying the `mods` folder within the archive to your main Witcher 3 game directory.
+Download the correct version for your setup and load order then install it with [W3MM](https://www.nexusmods.com/witcher3/mods/2678) or install it manually by copying the `mods` folder within the downloaded archive to your main Witcher 3 game directory.
 Some of the above mods will provide their own version of this file in their main mod packages, please make sure to set this mod's priority higher in [Script Merger](https://www.nexusmods.com/witcher3/mods/484) for the changes to take effect.
 
 # _Included Mods_
