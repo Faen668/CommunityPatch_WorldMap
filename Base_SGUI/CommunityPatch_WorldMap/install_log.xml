@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="CommunityPatch_WorldMap" Build_date="08/06/2023 19:54:22">
+  <Files>
+    <Directory Path="F:\Steam\steamapps\common\The Witcher 3\Mods\modCommunityPatch_WorldMap">
+      <Directory Path="F:\Steam\steamapps\common\The Witcher 3\Mods\modCommunityPatch_WorldMap\content">
+        <file>F:\Steam\steamapps\common\The Witcher 3\Mods\modCommunityPatch_WorldMap\content\blob0.bundle</file>
+        <file>F:\Steam\steamapps\common\The Witcher 3\Mods\modCommunityPatch_WorldMap\content\metadata.store</file>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>
