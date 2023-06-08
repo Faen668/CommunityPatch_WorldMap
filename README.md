@@ -10,7 +10,7 @@ A Community based patch for The Witcher 3 which merges several mod edits / addit
 - [The Stable](https://www.nexusmods.com/witcher3/mods/6132)
 
 # Available Versions
-  >**Base**
+  >**Base (No vanilla edits, Contains only additions)**
   > - All Quest Objectives On Map
   > - Botanist
   > - The Stable
