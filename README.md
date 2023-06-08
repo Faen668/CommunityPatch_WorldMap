@@ -1,7 +1,7 @@
 # _Description_
 This mod is a community based patch for The Witcher 3 which merges several mod edits / additions in `panel_worldmap.redswf`
 
-Due to the amount of mods editing this file, managing mod to mod conflicts and patch creation would is a nightmare. The aim of this mod is to provide a singlular patched file that can be used by anyone taking advantage of one or more of the included mods and thus not have to worry about managing conflicts or picking which mod they want to see in-game.  
+Due to the amount of mods editing this file, managing mod to mod conflicts and patch creation is a nightmare. The aim of this mod is to provide a singlular patched file that can be used by anyone taking advantage of one or more of the included mods and thus not have to worry about managing conflicts or picking which mod they want to see in-game.  
 
 # _Installation_
 Download the correct version for your setup and load order then install it with [W3MM](https://www.nexusmods.com/witcher3/mods/2678) or manually by copying the `mods` folder within the archive to your main Witcher 3 game directory.
