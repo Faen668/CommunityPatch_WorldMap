@@ -21,14 +21,14 @@ A Community based patch for The Witcher 3 which merges several mod edits / addit
   > - Smooth GUI
   > - The Stable
   
-  >**Extended**
+  >**Extended (Same as Base SGUI with the addition of Colored Map Markers)**
   > - All Quest Objectives On Map
   > - Colored Map Markers
   > - Botanist
   > - Smooth GUI
   > - The Stable
 
-  >**Full**
+  >**Full (All Supported Mods in one)**
   > - All Quest Objectives On Map
   > - Botanist
   > - Colored Map Markers
