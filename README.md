@@ -46,4 +46,4 @@ Some of the above mods will provide their own version of this file in their main
 - **_WolfMark_** for `All Quest Objectives On Map`
 - **_DJ Kovrik_** for `Colored Map Markers`
 - **_Ard Carraigh_** for `The Stable`
-- **_Ferroxius_** for `Smooth GUI` & 'No World Map Levels`
+- **_Ferroxius_** for `Smooth GUI` & `No World Map Levels`
