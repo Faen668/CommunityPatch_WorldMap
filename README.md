@@ -15,7 +15,7 @@ A Community based patch for The Witcher 3 which merges several mod edits / addit
   > - Botanist
   > - The Stable
   
-  >**Base (Smooth GUI)**
+  >**Base SGUI (Same as 'Base' howver also contains edits from Smooth GUI)**
   > - All Quest Objectives On Map
   > - Botanist
   > - Smooth GUI
