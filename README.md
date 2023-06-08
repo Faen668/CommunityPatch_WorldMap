@@ -4,10 +4,10 @@ A Community based patch for The Witcher 3 which merges several mod edits / addit
 # Included Mods
 - [All Quest Objectives On Map](https://www.nexusmods.com/witcher3/mods/943)
 - Botanist
-- Colored Map Markers
-- No World Map Levels
-- Smooth GUI
-- The Stable
+- [Colored Map Markers](https://www.nexusmods.com/witcher3/mods/938)
+- [No World Map Levels](https://www.nexusmods.com/witcher3/mods/7921)
+- [Smooth GUI](https://www.nexusmods.com/witcher3/mods/7730)
+- [The Stable](https://www.nexusmods.com/witcher3/mods/6132)
 
 # Available Versions
   >**Base**
